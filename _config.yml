@@ -4,7 +4,7 @@ email:       ""
 author:      Maciej Chojnacki
 description: "My Personal Website"
 baseurl:     ""
-url:         "https://maciej.chojnacki.name"
+url:         "https://maciej.chojnacki.name/newsite/"
 date_format: "%b %-d, %Y"
 
 # Optional features
