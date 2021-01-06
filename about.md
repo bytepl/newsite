@@ -5,24 +5,10 @@ permalink: /about/
 tags: about
 ---
 
-My name is Manuel Uberti.
+My name is Maciej. Maciej Chojnacki.
 
-I started my career developing Java enterprise applications. I have worked both
-in Italy and in the United Kingdom on software deployed to a wide range of
-customers: petrol companies, hospitals, job centres, insurance companies, banks,
-fashion stores, colour and additive factories.
+I am an IT engineer living and working in Wrocław, Poland. I deal with [Windows Server OS](https://en.wikipedia.org/wiki/Windows_Server), [Azure](https://en.wikipedia.org/wiki/Microsoft_Azure) and [PowerShell](https://en.wikipedia.org/wiki/PowerShell) - but I am not your regular Windows admin, I believe. Although I work with Microsoft technologies daily, I do not own a Windows machine. I have been using non-Windows OSes for many years now, starting with Linux[^1] and finally settling on MacOS. My main machine is a Mac mini and I use Macbook Air when I prefer to do things from my couch. Now that Powershell is platform agnostic, you do not need a Windows client machine anymore. I do appreciate that because, let's face it, Windows is not yet ready for the desktop.
 
-In 2015 my interest has shifted towards functional programming thanks to
-languages such as Emacs Lisp and Clojure. Since [2017](https://www.manueluberti.eu/programming/2017/03/12/anewjob/) my daily job involves
-Clojure and ClojureScript at [7bridges](https://7bridges.eu/). My open source work is available on
-[GitHub](https://github.com/manuel-uberti).
+When I am not working, I like to read some books, with two main areas of interest being astrophysics and history (particularly, Third Reich). Yeah, I know, it's weird.
 
-Beside Emacs and programming, I am an undergraduate at [Ca' Foscari](https://www.unive.it/) learning my
-way to a degree in Philosophy. I am also a cinephile, but I have [another blog](https://www.filmsinwords.eu)
-for that.
-
-[Get in touch](https://www.manueluberti.eu/contact/) if you want to know more or if you are looking for a detailed
-curriculum vitae.
-
-As for this website, it is powered by [Jekyll](https://jekyllrb.com/) and a modified version of [Pixyll](https://github.com/johno/pixyll).
-The source code of the entire website is available on [GitHub](https://github.com/manuel-uberti/manuel-uberti.github.io).
+[^1]: Ubuntu is an ancient African word, meaning "I can't configure Debian"

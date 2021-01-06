@@ -5,13 +5,6 @@ permalink: /contact/
 tags: contact
 ---
 
-If you have any questions about me and my experience, or if you like to talk all
-things Emacs, just drop me an email at
-[manuel.uberti@inventati.org](mailto:manuel.uberti@inventati.org).
+If you'd like to get in touch with me (for whatever reason), drop me a good, old e-mail at <span class='obf'>moc.liamg@oksiwotyb</span>
 
-I prefer encrypted emails, so you can use my [GPG
-key](https://github.com/manuel-uberti/manuel-uberti.github.io/blob/master/pubkey.txt)
-when writing to me:
-
-- Key ID: `CAA48F62`
-- Fingerprint: `8702 9F53 2466 A6B5 E3F4 6B44 4E57 A6C4 CAA4 8F62`
+This is the way.

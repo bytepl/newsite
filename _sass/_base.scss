@@ -32,3 +32,18 @@ body {
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
+
+em {
+  background-color: yellow;
+  font-style: normal;
+}
+
+span.obf { 
+  unicode-bidi:bidi-override; direction: rtl;
+}
+
+hr.footer {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}

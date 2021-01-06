@@ -1,10 +1,10 @@
 # Site settings
-title:       Manuel Uberti
+title:       bytowisko
 email:       ""
-author:      Manuel Uberti
+author:      Maciej Chojnacki
 description: "My Personal Website"
 baseurl:     ""
-url:         "https://www.manueluberti.eu"
+url:         "https://maciej.chojnacki.name"
 date_format: "%b %-d, %Y"
 
 # Optional features
@@ -77,7 +77,7 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email Address'
+    email:    'bytowisko@gmail.com'
     content:  'What would you like to say?'
     subject:  'New submission!'
     submit:   'Say Hello'
