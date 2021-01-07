@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /newsite/about/
+permalink: /about/
 tags: about
 ---
 

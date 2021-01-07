@@ -3,8 +3,8 @@ title:       bytowisko
 email:       ""
 author:      Maciej Chojnacki
 description: "My Personal Website"
-baseurl:     "https://maciej.chojnacki.name/newsite/"
-url:         "https://maciej.chojnacki.name/newsite/"
+baseurl:     "/newsite"
+url:         "https://maciej.chojnacki.name"
 date_format: "%b %-d, %Y"
 
 # Optional features
